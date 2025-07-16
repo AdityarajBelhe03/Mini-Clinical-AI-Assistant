@@ -1,0 +1,50 @@
+CLINICAL EXTRACTION RESULTS
+==================================================
+
+**DEMOGRAPHICS:**
+- Age: 42
+- Sex: None mentioned
+
+**CHIEF COMPLAINT:**
+- Irregular periods
+- Occasional spotting
+- Mild pelvic discomfort
+- Recent weight gain
+- Mild acme
+- Hair thinning
+
+**PAST MEDICAL HISTORY:**
+- Gestational diabetes
+- Migraines with aura
+- Vitamin D deficiency
+
+**RECOMMENDED TESTS:**
+- Pelvic ultrasound
+- Fasting insulin
+- Glucose
+- Lipid panel
+- Hormone levels (testosterone, LH, FSH)
+
+**CLINICAL FINDINGS/LAB VALUES:**
+- AMH level 7.4 ng/mL
+- BMI 29.6
+
+**DIAGNOSIS:**
+- PCOS (suspicion)
+
+**MEDICATIONS:**
+- Proprenol 10 milligrams PRN
+- Vitamin D 1000 IU daily
+- Metformin 500 milligrams daily
+
+**CONSULTING PHYSICIAN:**
+- Dr. Anita Varma
+
+==================================================
+CONFIDENCE SCORES:
+- age: 1.00
+- sex: 1.00
+- chief_complaint: 1.00
+- diagnosis: 1.00
+- recommended_tests: 1.00
+- medications: 1.00

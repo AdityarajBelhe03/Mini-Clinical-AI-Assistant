@@ -1,0 +1,30 @@
+{
+  "age": 42,
+  "sex": null,
+  "chief_complaint": "Irregular periods, occasional spotting, mild pelvic discomfort, recent weight gain, mild acme, hair thinning",
+  "diagnosis": "PCOS (suspicion)",
+  "recommended_tests": [
+    "Pelvic ultrasound",
+    "Fasting insulin",
+    "Glucose",
+    "Lipid panel",
+    "Hormone levels (testosterone, LH, FSH)"
+  ],
+  "medications": [
+    {
+      "name": "Proprenol",
+      "dose": "10 milligrams",
+      "frequency": "PRN"
+    },
+    {
+      "name": "Vitamin D",
+      "dose": "1000 IU",
+      "frequency": "daily"
+    },
+    {
+      "name": "Metformin",
+      "dose": "500 milligrams",
+      "frequency": "daily"
+    }
+  ]
+}

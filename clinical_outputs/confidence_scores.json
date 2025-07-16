@@ -1,0 +1,8 @@
+{
+  "age": 1.0,
+  "sex": 1.0,
+  "chief_complaint": 1.0,
+  "diagnosis": 1.0,
+  "recommended_tests": 1.0,
+  "medications": 1.0
+}
