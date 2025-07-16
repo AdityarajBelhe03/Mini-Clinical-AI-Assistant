@@ -19,8 +19,7 @@ A lightweight, modular Clinical AI Assistant that processes patient–doctor voi
 
 ## 🖼️ System Architecture
 
-```mermaid
-graph TD
+```
     A[Audio Upload] --> B[Transcription (Whisper)]
     B --> C[Clinical Extraction (DeepSeek)]
     C --> D[JSON Structuring]
@@ -106,11 +105,7 @@ Use the Gradio UI to test the assistant end-to-end.
 
 ## 👨‍⚕️ Author
 
-Made with ❤️ by Abhiraj  
-📧 abhiraj.gadade@uma.edu.pe
+Made with ❤️ by Adityaraj Sanjay Belhe
+📧 adityarajbelhe007@gmail.com
 
 ---
-
-## 📄 License
-
-MIT License
