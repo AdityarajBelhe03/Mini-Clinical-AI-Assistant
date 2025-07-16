@@ -1,6 +1,5 @@
 # 🩺 Clinical AI Assistant – LangGraph-Inspired Modular Workflow
 
-Gradio Link for Workflow: https://1263223121280f68f5.gradio.live/
 
 A lightweight, modular Clinical AI Assistant that processes patient–doctor voice recordings, extracts structured clinical data, and generates a professional SOAP note — powered by Whisper, DeepSeek R1, sentence-transformers, and Pinecone vector DB.
 
