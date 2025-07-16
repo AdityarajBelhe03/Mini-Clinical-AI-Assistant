@@ -62,15 +62,6 @@ clinical_ai_assistant/
 
 ---
 
-## ⚙️ How to Run
-
-```bash
-pip install -r requirements.txt
-python app.py
-```
-
-Use the Gradio UI to test the assistant end-to-end.
-
 ---
 
 ## 🧪 Deliverables
@@ -107,7 +98,7 @@ Use the Gradio UI to test the assistant end-to-end.
 
 ## 👨‍⚕️ Author
 
-Made with ❤️ by Adityaraj Sanjay Belhe
+Made by Adityaraj Sanjay Belhe
 📧 adityarajbelhe007@gmail.com
 
 ---
